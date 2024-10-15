@@ -1,0 +1,55 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; 
+    color: #000000; 
+}
+
+header {
+    background-color: #ff3e82; 
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 15px; 
+}
+
+header nav ul li a {
+    color: #000000; 
+    text-decoration: none;
+}
+
+header nav ul li a:hover { 
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff; 
+}
+
+footer {
+    background-color: #ff3e82; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+body {
+    padding-bottom: 50px;
+}
+
